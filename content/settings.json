@@ -1,24 +1,24 @@
 {
-  "store_id": 2359,
-  "name": "amobloom",
   "domain": "amobloom.netlify.app",
-  "short_name": "amobloom",
-  "description": "amobloom",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/amobloom",
+  "logo": "/img/uploads/insta_b-04.png",
+  "name": "amobloom",
+  "short_name": "amobloom",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/insta_b-04.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/amobloom"
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/insta_b-04.png",
+  "store_id": 2359,
+  "description": "amobloom",
+  "large_icon": "/img/uploads/insta_b-04.png"
 }
