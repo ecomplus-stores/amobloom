@@ -5,7 +5,8 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Camisas"
     },
     {
       "type": "document-banner",
@@ -19,6 +20,11 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "sales"
     }
   ]
 }
