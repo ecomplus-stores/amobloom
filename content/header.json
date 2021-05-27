@@ -18,7 +18,14 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/camisas?Camisas",
+      "/shorts?Short",
+      "/calcas?Calça",
+      "/macacao?Macacão",
+      "/macacao?Macacão",
+      "/vestidos?Vestido"
+    ],
     "random": 6,
     "full_width": false
   },
