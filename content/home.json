@@ -28,9 +28,11 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "60a5e1c7aa82b4705e42e454:categories:Loja:/loja",
+      "collection_id": "60a5e594aa82b4705e42e67a:brands:Bloom:/bloom",
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "page-title",
