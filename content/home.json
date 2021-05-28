@@ -30,7 +30,7 @@
       "shuffle": true,
       "collection_id": "60a5e594aa82b4705e42e67a:brands:Bloom:/bloom",
       "limit": 12,
-      "page": 1,
+      "page": 3,
       "sort": "views",
       "headless": true
     }
