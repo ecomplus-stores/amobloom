@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 4000,
       "slides": [
         {
           "img": "/img/uploads/rect89.webp",
@@ -23,16 +23,17 @@
     },
     {
       "type": "info-bar",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "60a5e594aa82b4705e42e67a:brands:Bloom:/bloom",
+      "shuffle": false,
       "limit": 12,
-      "page": 3,
-      "sort": "views",
-      "headless": true
+      "page": 1,
+      "collection_id": "60a5e215aa82b4705e42e476:categories:Short:/shorts"
+    },
+    {
+      "type": "page-title"
     }
   ]
 }
