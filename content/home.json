@@ -4,20 +4,14 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 4000,
+      "autoplay": 15000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/capa-ecom-1-.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "end": "2022-04-02T23:09:33.527Z"
         }
       ]
     },
@@ -30,10 +24,21 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "60a5e215aa82b4705e42e476:categories:Short:/shorts"
+      "collection_id": "60a5e215aa82b4705e42e476:categories:Short:/shorts",
+      "headless": false
     },
     {
-      "type": "page-title"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60a5e244aa82b4705e42e486:categories:Calça:/calcas",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "page-title",
+      "description": "A Bloom! é uma marca slow fashion. Nossas peças são de criação autoral, que conta com uma equipe de produção local e qualificada. Dentro desse processo, procuramos colocar todos os valores que acreditamos como trabalho justo: tecidos que agridem menos o meio ambiente e o intuito de proporcionar satisfação e bem-estar aos nossos clientes e a todos os nossos parceiros.   Criamos, produzimos e comercializamos roupas com tecidos leves e modelagem caprichosa, que unem nossa essência natural à sofisticação e à elegância, bem como valorizam a beleza e a feminilidade da mulher brasileira.   A cada coleção, buscamos reforçar a identidade BLOOM!, com peças atemporais e democráticas. Estas, por sua vez, transitam do verão ao inverno e nos lembram que, entre tendências de moda que vem e vão, a nossa verdadeira essência prevalece.",
+      "title": "Amo Bloom!"
     }
   ]
 }
