@@ -36,6 +36,27 @@
       "sort": "lowest_price"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60a5e295aa82b4705e42e4a3:categories:Macacão:/macacao"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60a5e2dfaa82b4705e42e4dd:categories:Cropped:/cropped"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60a5e2aaaa82b4705e42e4ad:categories:Vestido:/vestidos"
+    },
+    {
       "type": "page-title",
       "description": "A Bloom! é uma marca slow fashion. Nossas peças são de criação autoral, que conta com uma equipe de produção local e qualificada. Dentro desse processo, procuramos colocar todos os valores que acreditamos como trabalho justo: tecidos que agridem menos o meio ambiente e o intuito de proporcionar satisfação e bem-estar aos nossos clientes e a todos os nossos parceiros.   Criamos, produzimos e comercializamos roupas com tecidos leves e modelagem caprichosa, que unem nossa essência natural à sofisticação e à elegância, bem como valorizam a beleza e a feminilidade da mulher brasileira.   A cada coleção, buscamos reforçar a identidade BLOOM!, com peças atemporais e democráticas. Estas, por sua vez, transitam do verão ao inverno e nos lembram que, entre tendências de moda que vem e vão, a nossa verdadeira essência prevalece.",
       "title": "Amo Bloom!"
